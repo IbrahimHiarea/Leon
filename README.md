@@ -1,58 +1,46 @@
-# HTML and CSS Design Template
-This is an HTML and CSS design template that can be used as a starting point for creating web pages with a predefined design and layout.
-Table of Contents
-Features
-Installation
-Usage
-Customization
-Contributing
-License
-Features
-Clean and modern design
-Responsive layout for various screen sizes
-Easily customizable styles and colors
-Well-structured HTML and CSS code
-Cross-browser compatibility
-Installation
-To use this design template, follow the steps below:
+# Leon HTML and CSS Design
 
-Download or clone the repository.
-Copy the index.html and style.css files into your project directory.
-Usage
-To use this design template in your web project, follow these guidelines:
+Leon is a modern and responsive HTML and CSS design template that provides a sleek and visually appealing foundation for building stunning websites. With its clean and elegant design, Leon focuses on simplicity and exceptional user experience.
+check it out : [Leon](https://ibrahimhiarea.github.io/Leon/).
 
-Link the CSS file to your HTML file by adding the following line inside the <head> tag:
+## Features
 
-html
-Copy
-<link rel="stylesheet" href="style.css">
-```
+- Responsive Layout: Leon is crafted to be fully responsive, ensuring that your website looks great on various devices and screen sizes.
+- Customizable Color Scheme: Easily customize the color scheme of the design to match your brand or personal preferences by modifying the included CSS file.
+- Modern Typography: The design utilizes a carefully curated selection of modern fonts, enhancing the visual appeal and legibility of your content.
+- Flexible Grid System: Leon is built on a flexible grid system, enabling you to create diverse page layouts and arrangements.
+- CSS Animations: Add subtle yet engaging visual effects to your website using the built-in CSS animations.
+- Easy Customization: The well-organized and commented HTML and CSS files make it effortless for developers to understand and customize the design according to their specific needs.
 
-Modify the HTML structure in index.html file to suit your needs. Replace the placeholder content with your own text, images, and other HTML elements.
+## Getting Started
 
-Customize the styles in style.css file. Update the colors, fonts, margins, and other properties as per your design requirements.
+To get started with the Leon HTML and CSS design, follow these simple steps:
 
-Preview the changes by opening the updated index.html file in your web browser.
+1. Download the design files from the [Leon GitHub repository](https://github.com/IbrahimHiarea/Leon).
+2. Extract the downloaded ZIP file to a location of your choice on your computer.
+3. Open the `index.html` file in your preferred text editor.
+4. Customize the design by modifying the CSS file (`style.css`). You can easily adjust the color scheme, typography, layout, and other aspects to suit your requirements.
+5. Replace the placeholder content in `index.html` with your own text, images, and media.
+6. Save your changes.
 
-Customization
-This design template can be easily customized to match your specific design preferences. Here are some ways you can customize the template:
+That's it! You now have a personalized version of the Leon design ready to be used for your website.
 
-Colors: Modify the color values in the CSS file to match your desired color scheme.
-Fonts: Update the font family and font sizes to use your preferred typography.
-Layout: Adjust the margins, paddings, and positioning of elements to create your desired layout.
-Images: Replace the placeholder images with your own images by updating the src attribute of the <img> tags.
-Feel free to explore the HTML and CSS files to understand the structure and make further customizations.
+## Browser Compatibility
 
-Contributing
-Contributions to this design template are welcome! If you have any improvements or bug fixes, please follow these steps:
+Leon is designed to be compatible with modern web browsers, including:
 
-Fork the repository.
-Create a new branch for your feature or bug fix.
-Make the necessary changes in your branch.
-Submit a pull request, explaining your changes in detail.
-License
-This design template is licensed under the MIT License. You are free to use, modify, and distribute this template for both personal and commercial purposes.
+- Google Chrome
+- Mozilla Firefox
+- Safari
+- Microsoft Edge
 
-Feel free to customize this template according to your specific design template and requirements. Make sure to provide relevant links, such as the download link, license link, and any other resources mentioned in the README.
+## Credits
 
-I hope this helps! Let me know if you have any further questions.
+Leon draws inspiration from the works of numerous talented designers and incorporates various open-source libraries and resources. The following resources were used in creating this design:
+
+- [Normalize.css](https://necolas.github.io/normalize.css/): A modern CSS reset that ensures consistent styling across different browsers.
+- [Google Fonts](https://fonts.google.com/): A collection of open-source fonts for web typography.
+
+## Feedback and Contributions
+
+Feedback, bug reports, and contributions are always welcome! If you encounter any issues or have suggestions for improvement, please submit them via the GitHub repository's issue tracker. If you wish to contribute to the design, feel free to submit a pull request.
